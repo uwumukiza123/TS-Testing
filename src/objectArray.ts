@@ -15,7 +15,3 @@ let ninja = {
     age: 30,
 
 }
-
-ninja.age = 30;
-ninja.name = 'hell';
-ninja.age = 70;
